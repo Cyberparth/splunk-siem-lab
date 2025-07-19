@@ -1,0 +1,6 @@
+*.log
+*.bak
+*.tmp
+__pycache__/
+*.pcap
+*.splunk
